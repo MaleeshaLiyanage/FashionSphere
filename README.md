@@ -5,6 +5,19 @@ FashionSphere is a feature-rich online clothing web application designed to prov
 
 FashionSphere allows users to explore, filter, and purchase fashion products effortlessly while staying updated on stock availability, new arrivals, and personalized sale notifications. The system supports both customer-facing features and admin-level controls for efficient store management.
 
+# FashionSphere — Business Analyst Role
+
+   FashionSphere is my academic project where I worked for some parts in my project as a **Business Analyst** to design and document a modern clothing web application focused on the **Sri Lankan fashion industry**. By exploring and observing several existing online clothing platforms in Sri Lanka, I identified various difficulties and weaknesses in their systems. Based on these findings, I covered a wide range of business analysis activities including gathering user requirements, analyzing problems and proposing practical feature improvements. This project helped me understand how a Business Analyst bridges business needs with technical solutions and contributes to building user-friendly, efficient systems tailored to local industry demands.
+
+# Objective
+To analyze and propose new features for an online fashion web app that helps customers shop easily and assists admins in managing products effectively.
+
+# My Role as a Business Analyst
+    - Gathered requirements and listed new features like stock alerts, order history, and sale notifications.
+    - Created basic process flow diagrams to explain how users and admins interact with the system.
+    - Wrote simple feature descriptions and documentation.
+    - Decided some improvements to make the system more user-friendly.
+    
 # Key Features
 
    # For Customers
