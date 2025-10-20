@@ -17,7 +17,7 @@ FashionSphere allows users to explore, filter, and purchase fashion products eff
   # For Administrators
         - Add New Items: Easily upload new clothing items with detailed attributes.
         - Stock Alerts: Receive instant notifications when inventory runs low.
-        - Filtering Options: Filter items by color, size, or material with checkboxes and radio buttons.
-        - Brand Management: Add or manage multiple fashion brands such as Moose, Spring & Summer, Emerald, and Crocodile.
+        - Filtering Options: Filter items by color, size, or material.
+        - Brand Management: Add or manage multiple fashion brands.
         
  Unavailable Product Alerts: If an item filter returns no results, the system displays a “Not Available” message.
